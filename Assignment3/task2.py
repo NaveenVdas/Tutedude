@@ -8,4 +8,3 @@ sine_value = math.sin(number)
 print("Square root: ",square_root)
 print("Logarithm: ",natural_logarithm)
 print("Sine: ",sine_value)
-#float
