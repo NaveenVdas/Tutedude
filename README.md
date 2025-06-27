@@ -1,4 +1,4 @@
--------------Task 1: Calculate Factorial Using a Function--------------- 
+-------------Task 1: Calculate Factorial Using a Function------------- 
 
 
     Problem Statement: Write a Python program that:
