@@ -1,5 +1,3 @@
----
-
 ## ✅ Task 1: Create a Dictionary of Student Marks
 
 ### 📝 Problem Statement
@@ -26,9 +24,8 @@ if student_name in students:
 # 4. If not found, show an appropriate message
 else:
     print('Student not found.')
-```
 
----
+```
 
 ## ✅ Task 2: Demonstrate List Slicing
 
